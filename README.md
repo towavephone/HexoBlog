@@ -1,12 +1,11 @@
 # TowavePhone的博客
 
 [![hexo version](https://img.shields.io/badge/hexo-%3E%3D%203.0-blue.svg)](http://hexo.io)
-[![pipeline status](http://120.79.62.126:10080/towavephone/TowavePhoneBlog/badges/master/pipeline.svg)](http://120.79.62.126:10080/towavephone/TowavePhoneBlog/commits/master)
 [![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)]()
 
 本博客是基于 [MOxFIVE/hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee) 制作的主题，其中添加更改了大量功能。
 
-崇尚美观的 UI，以及极致的移动端阅读体验，你可以点击 [我的博客](http://towavephone.coding.me/) 查看效果。    
+崇尚美观的 UI，以及极致的移动端阅读体验，你可以点击 [我的博客](http://www.towavephone.com/) 查看效果。    
 
 如果本主题也是你喜欢的菜，请动动手指 Star 支持一下
 
@@ -18,7 +17,7 @@
 
 ## 博客改进日志
 
-[见这里](http://towavephone.coding.me/2018/04/24/update/)     
+[见这里](http://www.towavephone.com/2018/04/24/update/)     
 
 ## 使用
 
