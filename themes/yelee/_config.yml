@@ -120,8 +120,8 @@ gitment:
 
 gitalk:
   on: true
-  clientID: c61abeb31906bb4a209d
-  clientSecret: fac8b9e40113945430e0ea638efdb96e7e0df9b5
+  clientID: 8583be5f967861b31f39
+  clientSecret: 32a41f1cf66b30ea023a350c57eb566b9e547656
   repo: HexoBlog
   owner: towavephone
   admin: ['towavephone']

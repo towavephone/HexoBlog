@@ -41,7 +41,7 @@ deploy to gitlab:
     - build
   environment:
     name: gitlab
-    url: http://www.towavephone.com
+    url: https://www.towavephone.com
     on_stop: stop deploy on gitlab
 
 stop deploy on gitlab:

@@ -1,11 +1,11 @@
-# TowavePhone的博客
+# TowavePhone 的博客
 
 [![hexo version](https://img.shields.io/badge/hexo-%3E%3D%203.0-blue.svg)](http://hexo.io)
 [![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)]()
 
 本博客是基于 [MOxFIVE/hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee) 制作的主题，其中添加更改了大量功能。
 
-崇尚美观的 UI，以及极致的移动端阅读体验，你可以点击 [我的博客](http://www.towavephone.com/) 查看效果。    
+崇尚美观的 UI，以及极致的移动端阅读体验，你可以点击 [我的博客](http://www.towavephone.com/) 查看效果。
 
 如果本主题也是你喜欢的菜，请动动手指 Star 支持一下
 
@@ -17,13 +17,13 @@
 
 ## 博客改进日志
 
-[见这里](http://www.towavephone.com/2018/04/24/update/)     
+[见这里](https://www.towavephone.com/2018/04/24/update/)
 
 ## 使用
 
 ### Yarn
 
-``` bash
+```bash
 yarn
 // 因为 node_modules 文件夹里面有改动
 git checkout .
@@ -37,7 +37,7 @@ yarn deploy
 
 ### npm
 
-``` bash
+```bash
 npm install
 git checkout .
 npm run dev
@@ -60,4 +60,3 @@ npm run deploy
 如果觉得本博客还不错，欢迎 Star 下，您的支持和鼓励才是后续更新最大的动力！
 
 当然，也欢迎 fork 后创建自己的博客！
-
