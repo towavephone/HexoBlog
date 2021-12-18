@@ -5,6 +5,7 @@
 ### Bug Fixes
 
 * change node version ([17b92c2](https://github.com/towavephone/HexoBlog/commit/17b92c2))
+* change node version position ([ef914b6](https://github.com/towavephone/HexoBlog/commit/ef914b6))
 * update nvm ([e78b320](https://github.com/towavephone/HexoBlog/commit/e78b320))
 * update secret ([a295925](https://github.com/towavephone/HexoBlog/commit/a295925))
 
