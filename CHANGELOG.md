@@ -8,6 +8,7 @@
 * change node version ([17b92c2](https://github.com/towavephone/HexoBlog/commit/17b92c2))
 * change node version position ([ef914b6](https://github.com/towavephone/HexoBlog/commit/ef914b6))
 * change url and gitalk ([09539e2](https://github.com/towavephone/HexoBlog/commit/09539e2))
+* gitalk error ([005dec1](https://github.com/towavephone/HexoBlog/commit/005dec1))
 * update nvm ([e78b320](https://github.com/towavephone/HexoBlog/commit/e78b320))
 * update secret ([a295925](https://github.com/towavephone/HexoBlog/commit/a295925))
 

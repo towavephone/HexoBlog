@@ -2,7 +2,8 @@
 title: Hello World
 original:
 date: 2015-08-19 00:00:00
-comments:
+comments: false
+permalink: hello-world
 description: "Welcome to Hexo: This is your very first post."
 mathjax: true
 ---

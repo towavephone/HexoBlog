@@ -2,6 +2,7 @@
 title: 元旦前回家小记
 date: 2019-12-30 00:50:36
 comments: true
+permalink: new-year-day-go-home
 categories:
   - 生活日常
 tags:

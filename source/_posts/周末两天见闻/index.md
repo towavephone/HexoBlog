@@ -2,6 +2,7 @@
 title: 周末两天见闻
 date: 2020-1-18 00:19:06
 comments: true
+permalink: weekend-story
 categories:
   - 生活日常
 tags:

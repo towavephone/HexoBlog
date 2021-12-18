@@ -1,6 +1,7 @@
 ---
 title: 夜跑生物岛
 date: 2020-5-11 00:31:12
+permalink: run-in-bio-island
 comments: true
 categories:
   - 生活日常

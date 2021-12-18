@@ -1,6 +1,7 @@
 ---
 title: 与前同事聚餐小记
 date: 2020-1-5 22:52:39
+permalink: former-colleagues-dinner
 comments: true
 categories:
   - 生活日常
