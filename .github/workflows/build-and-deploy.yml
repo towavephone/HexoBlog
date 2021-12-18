@@ -19,10 +19,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # 切换版本
-      - uses: actions/setup-node@v2
-        with:
-          node-version: "8"
       # 切代码
       - name: Checkout
         uses: actions/checkout@v2
@@ -49,6 +45,11 @@ jobs:
           key: ${{ runner.os }}-blog-site-build-${{ github.run_id }}
           restore-keys: |
             ${{ runner.os }}-blog-site-build-
+      # 切换版本
+      - name: setup node version
+        uses: actions/setup-node@v2
+        with:
+          node-version: "8"
       # 构建部署代码
       - name: Build and Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@releases/v2
