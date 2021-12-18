@@ -10,6 +10,7 @@ fancybox:
 original:
 comments:
 toc_list_number: false
+top: 1
 ---
 # 前言
 
