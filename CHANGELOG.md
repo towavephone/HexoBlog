@@ -2,6 +2,11 @@
 # 0.0.0 (2021-12-18)
 
 
+### Bug Fixes
+
+* update secret ([a295925](https://github.com/towavephone/HexoBlog/commit/a295925))
+
+
 ### Features
 
 * add acticle,change avatar,add time a few days ago ([36f29f8](https://github.com/towavephone/HexoBlog/commit/36f29f8))
