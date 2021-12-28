@@ -1,5 +1,5 @@
 <a name="0.0.0"></a>
-# 0.0.0 (2021-12-18)
+# 0.0.0 (2021-12-25)
 
 
 ### Bug Fixes
@@ -91,6 +91,7 @@
 * test comments ([2609ea9](https://github.com/towavephone/HexoBlog/commit/2609ea9))
 * the first part of offer algorithm ([5de51b6](https://github.com/towavephone/HexoBlog/commit/5de51b6))
 * update blog log and add code paste ([e7899d8](https://github.com/towavephone/HexoBlog/commit/e7899d8))
+* update company tour ([f7e3ef6](https://github.com/towavephone/HexoBlog/commit/f7e3ef6))
 * update daily life ([73f332a](https://github.com/towavephone/HexoBlog/commit/73f332a))
 * update dinner party ([e7b32f6](https://github.com/towavephone/HexoBlog/commit/e7b32f6))
 * update evening runing ([0bed703](https://github.com/towavephone/HexoBlog/commit/0bed703))

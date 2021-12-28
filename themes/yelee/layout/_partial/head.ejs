@@ -52,10 +52,6 @@
     <script defer src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a1d3f6b51787bfe"></script> 
 <% } %>
 
-<% if (theme.lazysizes.on) { %>
-    <script async src="<%- theme.CDN.lazysizes %>"></script>
-<% } %>
-
 <% if (theme.progressBar.on) { %>
     <script defer src="<%- theme.CDN.pace_js %>"></script>
     <link href="//cdn.bootcss.com/pace/1.0.2/themes/<%= theme.progressBar.color || 'blue'%>/pace-theme-<%= theme.progressBar.type || 'minimal'%>.css" rel="stylesheet">

@@ -306,8 +306,6 @@ progressBar:
 ICP:
  on: true
  value: 鄂ICP备18008308号 
-lazysizes:
-  on: true
 CDN:
   jquery: https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js
   require: https://cdn.bootcss.com/require.js/2.2.0/require.min.js
@@ -321,7 +319,6 @@ CDN:
   clipboard: https://cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js
   mathjax: https://cdn.bootcss.com/mathjax/2.7.4/MathJax.js
   scrollreveal: //cdn.bootcss.com/scrollReveal.js/3.1.4/scrollreveal.min.js
-  lazysizes: https://cdn.bootcss.com/lazysizes/4.0.2/lazysizes.min.js
   slideout: https://cdn.bootcss.com/slideout/1.0.1/slideout.min.js
   
 leancloud_visitors:

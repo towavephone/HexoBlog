@@ -2056,6 +2056,13 @@ hexo-i18n@^0.2.1:
   dependencies:
     sprintf-js "^1.0.2"
 
+hexo-lazyload-image@^1.0.10:
+  version "1.0.10"
+  resolved "https://registry.npmmirror.com/hexo-lazyload-image/download/hexo-lazyload-image-1.0.10.tgz#08a67e724590371ef49b77c88eab51d5d367f32e"
+  integrity sha1-CKZ+ckWQNx70m3fIjqtR1dNn8y4=
+  dependencies:
+    uglify-js "^3.0.27"
+
 hexo-log@^0.2.0:
   version "0.2.0"
   resolved "http://registry.npm.taobao.org/hexo-log/download/hexo-log-0.2.0.tgz#d30fd45e1a12a83c88033586640485efc5df5a6f"
@@ -4288,6 +4295,11 @@ uglify-js@^2.6:
     yargs "~3.10.0"
   optionalDependencies:
     uglify-to-browserify "~1.0.0"
+
+uglify-js@^3.0.27:
+  version "3.14.5"
+  resolved "https://registry.npmmirror.com/uglify-js/download/uglify-js-3.14.5.tgz#cdabb7d4954231d80cb4a927654c4655e51f4859"
+  integrity sha512-qZukoSxOG0urUTvjc2ERMTcAy+BiFh3weWAkeurLwjrCba73poHmG3E36XEjd/JGukMzwTL7uCxZiAexj8ppvQ==
 
 uglify-js@~2.4:
   version "2.4.24"
