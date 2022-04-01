@@ -1,5 +1,5 @@
 <a name="0.0.0"></a>
-# 0.0.0 (2021-12-25)
+# 0.0.0 (2021-12-28)
 
 
 ### Bug Fixes
@@ -73,6 +73,7 @@
 * fix TAG button and add front end interview html part ([e84dca0](https://github.com/towavephone/HexoBlog/commit/e84dca0))
 * fix wife change bug ([337f9a8](https://github.com/towavephone/HexoBlog/commit/337f9a8))
 * format post ([99edaa6](https://github.com/towavephone/HexoBlog/commit/99edaa6))
+* image lazyload ([f9ba4a0](https://github.com/towavephone/HexoBlog/commit/f9ba4a0))
 * modify cdn url ([d0ec38a](https://github.com/towavephone/HexoBlog/commit/d0ec38a))
 * modify config ([bcbd6f6](https://github.com/towavephone/HexoBlog/commit/bcbd6f6))
 * modify gitalk repo ([ee3f112](https://github.com/towavephone/HexoBlog/commit/ee3f112))
