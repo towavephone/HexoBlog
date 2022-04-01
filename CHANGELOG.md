@@ -1,5 +1,5 @@
 <a name="0.0.0"></a>
-# 0.0.0 (2021-12-28)
+# 0.0.0 (2022-04-01)
 
 
 ### Bug Fixes
@@ -97,6 +97,7 @@
 * update dinner party ([e7b32f6](https://github.com/towavephone/HexoBlog/commit/e7b32f6))
 * update evening runing ([0bed703](https://github.com/towavephone/HexoBlog/commit/0bed703))
 * update github workflow ([c6ead78](https://github.com/towavephone/HexoBlog/commit/c6ead78))
+* update icp ([2e87ddd](https://github.com/towavephone/HexoBlog/commit/2e87ddd))
 * update icp href ([6c163a4](https://github.com/towavephone/HexoBlog/commit/6c163a4))
 * update weekend see ([6e049b2](https://github.com/towavephone/HexoBlog/commit/6e049b2))
 
