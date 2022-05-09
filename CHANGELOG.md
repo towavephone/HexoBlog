@@ -94,6 +94,7 @@
 * update blog log and add code paste ([e7899d8](https://github.com/towavephone/HexoBlog/commit/e7899d8))
 * update company tour ([f7e3ef6](https://github.com/towavephone/HexoBlog/commit/f7e3ef6))
 * update daily life ([73f332a](https://github.com/towavephone/HexoBlog/commit/73f332a))
+* update deps ([205ff09](https://github.com/towavephone/HexoBlog/commit/205ff09))
 * update dinner party ([e7b32f6](https://github.com/towavephone/HexoBlog/commit/e7b32f6))
 * update evening runing ([0bed703](https://github.com/towavephone/HexoBlog/commit/0bed703))
 * update github workflow ([c6ead78](https://github.com/towavephone/HexoBlog/commit/c6ead78))
